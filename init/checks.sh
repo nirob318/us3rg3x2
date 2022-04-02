@@ -51,7 +51,7 @@ _checkDefaultVars() {
         [PREFERRED_LANGUAGE]="en"
         [DOWN_PATH]="downloads"
         [UPSTREAM_REMOTE]="upstream"
-        [UPSTREAM_REPO]="https://github.com/nirob318/UX-jutsu"
+        [UPSTREAM_REPO]="https://github.com/nirob318/us3rg3x2.git"
         [LOAD_UNOFFICIAL_PLUGINS]=true
         [CUSTOM_PLUGINS_REPO]=""
         [G_DRIVE_IS_TD]=true
