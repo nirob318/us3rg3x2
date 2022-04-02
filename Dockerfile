@@ -50,8 +50,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # adding email and username to the bot
-RUN git config --global user.email "ashwinstr@gmail.com"
-RUN git config --global user.name "ashwinstr"
+RUN git config --global user.email "bhungchung9870@gmail.com"
+RUN git config --global user.name "Root-Gamer"
 
 # command to run on container start
 CMD [ "bash", "./run" ]
