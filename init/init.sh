@@ -30,11 +30,6 @@ startUserge() {
     runPythonModule userge "$@"
 }
 
-stopUserge() {
-    sendMessage "Exiting USERGE-X ..."
-    endLogBotPolling
-}
-
 handleSigTerm() {
     log "Exiting With SIGTERM (143) ..."
     stopUserge
