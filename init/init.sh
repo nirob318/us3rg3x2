@@ -46,6 +46,5 @@ runUserge() {
     initUserge
     startUserge "$@"
     local code=$?
-    stopUserge
     return $code
 }
